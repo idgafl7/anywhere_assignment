@@ -59,13 +59,13 @@ android {
     productFlavors {
         simpsons {
             dimension "tv_show"
-            resValue "string", "app_name", "Simpsons"
+            resValue "string", "app_name", "Simpsons Character Viewer"
             applicationIdSuffix ".simpsonsviewer"
             versionNameSuffix "-simpsonsviewer"
         }
         the_wire {
             dimension "tv_show"
-            resValue "string", "app_name", "The Wire"
+            resValue "string", "app_name", "The Wire Character Viewer"
             applicationIdSuffix ".wireviewer"
             versionNameSuffix "-wireviewer"
         }
