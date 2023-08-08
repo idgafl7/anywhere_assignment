@@ -1,0 +1,60 @@
+//
+//Should be in .gitignore in a real app in case it contains sensitive data
+//
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run tests",
+      "type": "dart",
+      "request": "launch",
+      "program": "./test/",
+      "args": []
+    },
+    {
+      "name": "simpsons",
+      "request": "launch",
+      "type": "dart",
+      "program": "${workspaceFolder}/lib/main.dart",
+      //
+      // another possible implementation is having another main file, I prefer using env variables
+      // so I can avoid passing around parameters from the main app file.
+      // "program": "${workspaceFolder}/lib/main_simpsons.dart",
+      //
+      "flutterMode": "debug",
+      "args": [
+        "--flavor",
+        "simpsons",
+        "--dart-define",
+        "ENVIRONMENT=simpsons",
+        "--dart-define",
+        //normally this would be dev.api.com/v1 if your flavor was dev
+        "BASE_URL=https://api.duckduckgo.com",
+      ]
+    },
+    {
+      "name": "the wire",
+      "request": "launch",
+      "type": "dart",
+      "program": "${workspaceFolder}/lib/main.dart",
+      //
+      // another possible implementation is having another main file, I prefer using env variables
+      // so I can avoid passing around parameters from the main app file.
+      // "program": "${workspaceFolder}/lib/main_thewire.dart",
+      //
+      "flutterMode": "debug",
+      "args": [
+        "--flavor",
+        "the_wire",
+        "--dart-define",
+        "ENVIRONMENT=the_wire",
+        "--dart-define",
+        //normally this would be api.com/v1 if your flavor was prod
+        "BASE_URL=https://api.duckduckgo.com",
+      ]
+    },
+    //
+    //profile modes and any other configs you might want
+    //
+  ]
+}
