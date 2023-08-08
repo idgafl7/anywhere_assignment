@@ -48,28 +48,40 @@
 		1178A05A235359BC7F7EAF82 /* Pods-Runner.release - the wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release - the wire.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release - the wire.xcconfig"; sourceTree = "<group>"; };
 		1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
 		1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
+		1830CF898C66D3A14F1F55C6 /* Pods-RunnerTests.release-the_wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.release-the_wire.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.release-the_wire.xcconfig"; sourceTree = "<group>"; };
 		331C807B294A618700263BE5 /* RunnerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunnerTests.swift; sourceTree = "<group>"; };
 		331C8081294A63A400263BE5 /* RunnerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RunnerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		37CA503285D33272083634B3 /* Pods-RunnerTests.profile-the_wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.profile-the_wire.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile-the_wire.xcconfig"; sourceTree = "<group>"; };
 		3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = AppFrameworkInfo.plist; path = Flutter/AppFrameworkInfo.plist; sourceTree = "<group>"; };
 		432D8FB41D533F10442267FE /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		44F3E142D1685579EAE158AE /* Pods-Runner.profile - simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile - simpsons.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile - simpsons.xcconfig"; sourceTree = "<group>"; };
+		4E847A9F1F5E406F333D7316 /* Pods-Runner.profile-the_wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-the_wire.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-the_wire.xcconfig"; sourceTree = "<group>"; };
 		51793AF3536998E1C2A2301E /* Pods-RunnerTests.debug - the wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.debug - the wire.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.debug - the wire.xcconfig"; sourceTree = "<group>"; };
+		63EECB7B95B4049E33A03263 /* Pods-Runner.debug-the_wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-the_wire.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-the_wire.xcconfig"; sourceTree = "<group>"; };
+		73EB0B7567B4C7AE32BA5D21 /* Pods-Runner.release-the_wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-the_wire.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-the_wire.xcconfig"; sourceTree = "<group>"; };
 		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
 		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		79B041D2C0E154A20A3FBF75 /* Pods-RunnerTests.debug-simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.debug-simpsons.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.debug-simpsons.xcconfig"; sourceTree = "<group>"; };
 		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
 		802A21F48F0C53C07A80A7ED /* Pods-RunnerTests.profile - the wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.profile - the wire.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile - the wire.xcconfig"; sourceTree = "<group>"; };
 		8B4B2C4E008E7C0B7CC6C515 /* Pods_RunnerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RunnerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; };
 		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
-		97C146EE1CF9000F007C117D /* Runner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Runner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		97C146EE1CF9000F007C117D /* The Wire Character Viewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Wire Character Viewer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97C146FB1CF9000F007C117D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		97C146FD1CF9000F007C117D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97C147001CF9000F007C117D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97C147021CF9000F007C117D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AAF60E3A68B2FF872528E10 /* Pods-RunnerTests.debug-the_wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.debug-the_wire.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.debug-the_wire.xcconfig"; sourceTree = "<group>"; };
+		AE826913C2099D543A7D23C7 /* Pods-RunnerTests.release-simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.release-simpsons.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.release-simpsons.xcconfig"; sourceTree = "<group>"; };
 		AF16F46969877080A73B16EB /* Pods-RunnerTests.release - simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.release - simpsons.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.release - simpsons.xcconfig"; sourceTree = "<group>"; };
+		B8DD0F2F64CB3C136A093F9C /* Pods-Runner.release-simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release-simpsons.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release-simpsons.xcconfig"; sourceTree = "<group>"; };
 		C13B161BC57E4E4B539AD0EB /* Pods-Runner.release - simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release - simpsons.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release - simpsons.xcconfig"; sourceTree = "<group>"; };
+		CBB27D9081FBD3C665638C63 /* Pods-RunnerTests.profile-simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.profile-simpsons.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile-simpsons.xcconfig"; sourceTree = "<group>"; };
 		E3522BB633CCDD5E292EFF82 /* Pods-RunnerTests.profile - simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.profile - simpsons.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile - simpsons.xcconfig"; sourceTree = "<group>"; };
 		EACD00164BBB0964D5E646C6 /* Pods-RunnerTests.debug - simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.debug - simpsons.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.debug - simpsons.xcconfig"; sourceTree = "<group>"; };
+		EDB5C446E0819E0AAC957EE3 /* Pods-Runner.profile-simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile-simpsons.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile-simpsons.xcconfig"; sourceTree = "<group>"; };
+		F0E9908E36D1D573CDC7E7A8 /* Pods-Runner.debug-simpsons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug-simpsons.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug-simpsons.xcconfig"; sourceTree = "<group>"; };
 		FE6625CFEC3FFF6E16B7B315 /* Pods-Runner.profile - the wire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile - the wire.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile - the wire.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -127,7 +139,7 @@
 		97C146EF1CF9000F007C117D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				97C146EE1CF9000F007C117D /* Runner.app */,
+				97C146EE1CF9000F007C117D /* The Wire Character Viewer.app */,
 				331C8081294A63A400263BE5 /* RunnerTests.xctest */,
 			);
 			name = Products;
@@ -172,8 +184,19 @@
 				AF16F46969877080A73B16EB /* Pods-RunnerTests.release - simpsons.xcconfig */,
 				802A21F48F0C53C07A80A7ED /* Pods-RunnerTests.profile - the wire.xcconfig */,
 				E3522BB633CCDD5E292EFF82 /* Pods-RunnerTests.profile - simpsons.xcconfig */,
+				63EECB7B95B4049E33A03263 /* Pods-Runner.debug-the_wire.xcconfig */,
+				F0E9908E36D1D573CDC7E7A8 /* Pods-Runner.debug-simpsons.xcconfig */,
+				73EB0B7567B4C7AE32BA5D21 /* Pods-Runner.release-the_wire.xcconfig */,
+				B8DD0F2F64CB3C136A093F9C /* Pods-Runner.release-simpsons.xcconfig */,
+				4E847A9F1F5E406F333D7316 /* Pods-Runner.profile-the_wire.xcconfig */,
+				EDB5C446E0819E0AAC957EE3 /* Pods-Runner.profile-simpsons.xcconfig */,
+				9AAF60E3A68B2FF872528E10 /* Pods-RunnerTests.debug-the_wire.xcconfig */,
+				79B041D2C0E154A20A3FBF75 /* Pods-RunnerTests.debug-simpsons.xcconfig */,
+				1830CF898C66D3A14F1F55C6 /* Pods-RunnerTests.release-the_wire.xcconfig */,
+				AE826913C2099D543A7D23C7 /* Pods-RunnerTests.release-simpsons.xcconfig */,
+				37CA503285D33272083634B3 /* Pods-RunnerTests.profile-the_wire.xcconfig */,
+				CBB27D9081FBD3C665638C63 /* Pods-RunnerTests.profile-simpsons.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -218,7 +241,7 @@
 			);
 			name = Runner;
 			productName = Runner;
-			productReference = 97C146EE1CF9000F007C117D /* Runner.app */;
+			productReference = 97C146EE1CF9000F007C117D /* The Wire Character Viewer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -423,7 +446,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		249021D3217E4FDB00AE95B9 /* Profile - the wire */ = {
+		249021D3217E4FDB00AE95B9 /* Profile-the_wire */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -464,7 +487,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = "The Wire Character Viewer";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "The Wire Character Viewer";
@@ -473,9 +496,9 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
-			name = "Profile - the wire";
+			name = "Profile-the_wire";
 		};
-		249021D4217E4FDB00AE95B9 /* Profile - the wire */ = {
+		249021D4217E4FDB00AE95B9 /* Profile-the_wire */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
 			buildSettings = {
@@ -489,16 +512,16 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sample.thewireviewer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "The Wire Character Viewer";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
-			name = "Profile - the wire";
+			name = "Profile-the_wire";
 		};
-		331C8088294A63A400263BE5 /* Debug - the wire */ = {
+		331C8088294A63A400263BE5 /* Debug-the_wire */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 51793AF3536998E1C2A2301E /* Pods-RunnerTests.debug - the wire.xcconfig */;
+			baseConfigurationReference = 9AAF60E3A68B2FF872528E10 /* Pods-RunnerTests.debug-the_wire.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -512,11 +535,11 @@
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
 			};
-			name = "Debug - the wire";
+			name = "Debug-the_wire";
 		};
-		331C8089294A63A400263BE5 /* Release - the wire */ = {
+		331C8089294A63A400263BE5 /* Release-the_wire */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 06887415E4DA7BBDB13C86D1 /* Pods-RunnerTests.release - the wire.xcconfig */;
+			baseConfigurationReference = 1830CF898C66D3A14F1F55C6 /* Pods-RunnerTests.release-the_wire.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -528,11 +551,11 @@
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
 			};
-			name = "Release - the wire";
+			name = "Release-the_wire";
 		};
-		331C808A294A63A400263BE5 /* Profile - the wire */ = {
+		331C808A294A63A400263BE5 /* Profile-the_wire */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 802A21F48F0C53C07A80A7ED /* Pods-RunnerTests.profile - the wire.xcconfig */;
+			baseConfigurationReference = 37CA503285D33272083634B3 /* Pods-RunnerTests.profile-the_wire.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -544,9 +567,9 @@
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
 			};
-			name = "Profile - the wire";
+			name = "Profile-the_wire";
 		};
-		5963FC372A828B94009D0F85 /* Debug - simpsons */ = {
+		5963FC372A828B94009D0F85 /* Debug-simpsons */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -593,7 +616,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = "Simpsons Character Viewer";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -601,9 +624,9 @@
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
-			name = "Debug - simpsons";
+			name = "Debug-simpsons";
 		};
-		5963FC382A828B94009D0F85 /* Debug - simpsons */ = {
+		5963FC382A828B94009D0F85 /* Debug-simpsons */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9740EEB21CF90195004384FC /* Debug.xcconfig */;
 			buildSettings = {
@@ -617,17 +640,17 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sample.simpsonsviewer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Simpsons Character Viewer";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
-			name = "Debug - simpsons";
+			name = "Debug-simpsons";
 		};
-		5963FC392A828B94009D0F85 /* Debug - simpsons */ = {
+		5963FC392A828B94009D0F85 /* Debug-simpsons */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EACD00164BBB0964D5E646C6 /* Pods-RunnerTests.debug - simpsons.xcconfig */;
+			baseConfigurationReference = 79B041D2C0E154A20A3FBF75 /* Pods-RunnerTests.debug-simpsons.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -641,9 +664,9 @@
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
 			};
-			name = "Debug - simpsons";
+			name = "Debug-simpsons";
 		};
-		5963FC3A2A828BA5009D0F85 /* Release - simpsons */ = {
+		5963FC3A2A828BA5009D0F85 /* Release-simpsons */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -684,7 +707,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = "Simpsons Character Viewer";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "Simpsons Character Viewer";
@@ -695,9 +718,9 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
-			name = "Release - simpsons";
+			name = "Release-simpsons";
 		};
-		5963FC3B2A828BA5009D0F85 /* Release - simpsons */ = {
+		5963FC3B2A828BA5009D0F85 /* Release-simpsons */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
 			buildSettings = {
@@ -711,16 +734,16 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sample.simpsonsviewer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Simpsons Character Viewer";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
-			name = "Release - simpsons";
+			name = "Release-simpsons";
 		};
-		5963FC3C2A828BA5009D0F85 /* Release - simpsons */ = {
+		5963FC3C2A828BA5009D0F85 /* Release-simpsons */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AF16F46969877080A73B16EB /* Pods-RunnerTests.release - simpsons.xcconfig */;
+			baseConfigurationReference = AE826913C2099D543A7D23C7 /* Pods-RunnerTests.release-simpsons.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -732,9 +755,9 @@
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
 			};
-			name = "Release - simpsons";
+			name = "Release-simpsons";
 		};
-		5963FC3D2A828BAE009D0F85 /* Profile - simpsons */ = {
+		5963FC3D2A828BAE009D0F85 /* Profile-simpsons */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -775,7 +798,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = "Simpsons Character Viewer";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "Simpsons Character Viewer";
@@ -784,9 +807,9 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
-			name = "Profile - simpsons";
+			name = "Profile-simpsons";
 		};
-		5963FC3E2A828BAE009D0F85 /* Profile - simpsons */ = {
+		5963FC3E2A828BAE009D0F85 /* Profile-simpsons */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
 			buildSettings = {
@@ -800,16 +823,16 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sample.simpsonsviewer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Simpsons Character Viewer";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
-			name = "Profile - simpsons";
+			name = "Profile-simpsons";
 		};
-		5963FC3F2A828BAE009D0F85 /* Profile - simpsons */ = {
+		5963FC3F2A828BAE009D0F85 /* Profile-simpsons */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E3522BB633CCDD5E292EFF82 /* Pods-RunnerTests.profile - simpsons.xcconfig */;
+			baseConfigurationReference = CBB27D9081FBD3C665638C63 /* Pods-RunnerTests.profile-simpsons.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -821,9 +844,9 @@
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
 			};
-			name = "Profile - simpsons";
+			name = "Profile-simpsons";
 		};
-		97C147031CF9000F007C117D /* Debug - the wire */ = {
+		97C147031CF9000F007C117D /* Debug-the_wire */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -870,7 +893,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = "The Wire Character Viewer";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -878,9 +901,9 @@
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
-			name = "Debug - the wire";
+			name = "Debug-the_wire";
 		};
-		97C147041CF9000F007C117D /* Release - the wire */ = {
+		97C147041CF9000F007C117D /* Release-the_wire */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -921,7 +944,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = "The Wire Character Viewer";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "The Wire Character Viewer";
@@ -932,9 +955,9 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
-			name = "Release - the wire";
+			name = "Release-the_wire";
 		};
-		97C147061CF9000F007C117D /* Debug - the wire */ = {
+		97C147061CF9000F007C117D /* Debug-the_wire */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9740EEB21CF90195004384FC /* Debug.xcconfig */;
 			buildSettings = {
@@ -948,15 +971,15 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sample.thewireviewer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "The Wire Character Viewer";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
-			name = "Debug - the wire";
+			name = "Debug-the_wire";
 		};
-		97C147071CF9000F007C117D /* Release - the wire */ = {
+		97C147071CF9000F007C117D /* Release-the_wire */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
 			buildSettings = {
@@ -970,12 +993,12 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sample.thewireviewer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "The Wire Character Viewer";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
-			name = "Release - the wire";
+			name = "Release-the_wire";
 		};
 /* End XCBuildConfiguration section */
 
@@ -983,41 +1006,41 @@
 		331C8087294A63A400263BE5 /* Build configuration list for PBXNativeTarget "RunnerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				331C8088294A63A400263BE5 /* Debug - the wire */,
-				5963FC392A828B94009D0F85 /* Debug - simpsons */,
-				331C8089294A63A400263BE5 /* Release - the wire */,
-				5963FC3C2A828BA5009D0F85 /* Release - simpsons */,
-				331C808A294A63A400263BE5 /* Profile - the wire */,
-				5963FC3F2A828BAE009D0F85 /* Profile - simpsons */,
+				331C8088294A63A400263BE5 /* Debug-the_wire */,
+				5963FC392A828B94009D0F85 /* Debug-simpsons */,
+				331C8089294A63A400263BE5 /* Release-the_wire */,
+				5963FC3C2A828BA5009D0F85 /* Release-simpsons */,
+				331C808A294A63A400263BE5 /* Profile-the_wire */,
+				5963FC3F2A828BAE009D0F85 /* Profile-simpsons */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "Release - the wire";
+			defaultConfigurationName = "Release-the_wire";
 		};
 		97C146E91CF9000F007C117D /* Build configuration list for PBXProject "Runner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				97C147031CF9000F007C117D /* Debug - the wire */,
-				5963FC372A828B94009D0F85 /* Debug - simpsons */,
-				97C147041CF9000F007C117D /* Release - the wire */,
-				5963FC3A2A828BA5009D0F85 /* Release - simpsons */,
-				249021D3217E4FDB00AE95B9 /* Profile - the wire */,
-				5963FC3D2A828BAE009D0F85 /* Profile - simpsons */,
+				97C147031CF9000F007C117D /* Debug-the_wire */,
+				5963FC372A828B94009D0F85 /* Debug-simpsons */,
+				97C147041CF9000F007C117D /* Release-the_wire */,
+				5963FC3A2A828BA5009D0F85 /* Release-simpsons */,
+				249021D3217E4FDB00AE95B9 /* Profile-the_wire */,
+				5963FC3D2A828BAE009D0F85 /* Profile-simpsons */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "Release - the wire";
+			defaultConfigurationName = "Release-the_wire";
 		};
 		97C147051CF9000F007C117D /* Build configuration list for PBXNativeTarget "Runner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				97C147061CF9000F007C117D /* Debug - the wire */,
-				5963FC382A828B94009D0F85 /* Debug - simpsons */,
-				97C147071CF9000F007C117D /* Release - the wire */,
-				5963FC3B2A828BA5009D0F85 /* Release - simpsons */,
-				249021D4217E4FDB00AE95B9 /* Profile - the wire */,
-				5963FC3E2A828BAE009D0F85 /* Profile - simpsons */,
+				97C147061CF9000F007C117D /* Debug-the_wire */,
+				5963FC382A828B94009D0F85 /* Debug-simpsons */,
+				97C147071CF9000F007C117D /* Release-the_wire */,
+				5963FC3B2A828BA5009D0F85 /* Release-simpsons */,
+				249021D4217E4FDB00AE95B9 /* Profile-the_wire */,
+				5963FC3E2A828BAE009D0F85 /* Profile-simpsons */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "Release - the wire";
+			defaultConfigurationName = "Release-the_wire";
 		};
 /* End XCConfigurationList section */
 	};
