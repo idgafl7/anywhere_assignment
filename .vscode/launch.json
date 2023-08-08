@@ -33,7 +33,7 @@
       ]
     },
     {
-      "name": "the wire",
+      "name": "the_wire",
       "request": "launch",
       "type": "dart",
       "program": "${workspaceFolder}/lib/main.dart",
@@ -45,7 +45,7 @@
       "flutterMode": "debug",
       "args": [
         "--flavor",
-        "the wire",
+        "the_wire",
         "--dart-define",
         "ENVIRONMENT=the_wire",
         "--dart-define",
