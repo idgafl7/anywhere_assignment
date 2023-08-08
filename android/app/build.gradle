@@ -63,7 +63,7 @@ android {
             applicationIdSuffix ".simpsonsviewer"
             versionNameSuffix "-simpsonsviewer"
         }
-        the_wire {
+        the wire {
             dimension "tv_show"
             resValue "string", "app_name", "The Wire"
             applicationIdSuffix ".wireviewer"

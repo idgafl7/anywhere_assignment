@@ -45,7 +45,7 @@
       "flutterMode": "debug",
       "args": [
         "--flavor",
-        "the_wire",
+        "the wire",
         "--dart-define",
         "ENVIRONMENT=the_wire",
         "--dart-define",
